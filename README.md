@@ -1,5 +1,5 @@
 # Group_work-bookstore-database-project
-# 📚 Bookstore Database Design & Programming with SQL
+# Bookstore Database Design & Programming with SQL
 
 ## Project Overview
 This project simulates a real-world database administration task for a bookstore. As a team, we designed and implemented a MySQL relational database system to handle the core operations of the bookstore including book listings, authorship, customer data, orders, shipping, and more.
