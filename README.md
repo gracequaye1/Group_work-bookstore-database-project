@@ -24,7 +24,7 @@ We followed a modular team-based approach, where each member handled specific pa
 
 ---
 
-## 👨 Contributors & Roles
+##  Contributors & Roles
 
 | Name                | Role                         | Responsibilities |
 |---------------------|------------------------------|------------------|
