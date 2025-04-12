@@ -13,6 +13,6 @@ GRANT SELECT ON BookStore.* TO 'reader'@'localhost';
 GRANT SELECT, INSERT ON BookStore.* TO 'analyst'@'localhost';
 
 -- Admin has full permissions
-GRANT SELECT, INSERT, UPDATE, DELETE ON BookStore.* TO 'admin'@'localhost';
+GRANT SELECT, INSERT, UPDATE, DELETE ON BookStore.* TO 'admin'@'localhost';git 
 -- Apply all changes
 FLUSH PRIVILEGES;
