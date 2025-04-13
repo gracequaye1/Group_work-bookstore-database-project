@@ -73,11 +73,11 @@ Each team member worked on the following tables:
 - Permissions were assigned to ensure secure and structured access to data.
 
 ---
+## Entity Relationship Diagram (ERD)
 
-##  ERD (Entity Relationship Diagram)
 The ERD for this database was created using Draw.io and includes all 15 tables with their relationships.
 
----
+![Bookstore ERD](Bookstore_ERD.png)
 
 ##  Files Included
 - `create_tables.sql` – Full SQL scripts to create all tables.
